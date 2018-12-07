@@ -2,5 +2,5 @@
 name: The Name of the Demo
 description: Some description, please keep it in one line
 resources:
-  - https://cdn.rawgit.com/Azuma-ito/jsfiddle/0abdb54b/test.css
+  - https://cdn.jsdelivr.net/gh/Azuma-ito/jsfiddle@0abdb54b/test.css
 ...
